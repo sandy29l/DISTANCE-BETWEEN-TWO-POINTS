@@ -4,11 +4,15 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
+To write a python program to find the distance two 2 points
 ### Step 2: 
+Get the input
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.jpg)
-### Step 4: 
+### Step 4:
+Execute the program
 ### Step 5: 
+Get the result.
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
